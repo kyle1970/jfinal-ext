@@ -1,4 +1,4 @@
-package jfinal.ext.render.chart;
+package jfinal.ext.render.chart.amcharts;
 
 import java.util.List;
 

@@ -1,8 +1,9 @@
-package jfinal.ext.render.chart;
+package jfinal.ext.render.chart.amcharts;
 
 import java.util.List;
 
-import jfinal.ext.render.KeyLabel;
+import jfinal.ext.render.chart.KeyLabel;
+
 
 import com.jfinal.log.Logger;
 import com.jfinal.util.StringKit;

@@ -3,8 +3,8 @@ package test.jfinal.render.chart;
 import java.util.ArrayList;
 import java.util.List;
 
-import jfinal.ext.render.KeyLabel;
-import jfinal.ext.render.chart.AmChartsRender;
+import jfinal.ext.render.chart.KeyLabel;
+import jfinal.ext.render.chart.amcharts.AmChartsRender;
 
 import com.jfinal.core.Controller;
 

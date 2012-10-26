@@ -1,4 +1,4 @@
-package jfinal.ext.render;
+package jfinal.ext.render.chart;
 
 import java.io.Serializable;
 import java.util.ArrayList;
