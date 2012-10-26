@@ -1,7 +1,8 @@
 package test.com.jfinal.ext;
 
+import jfinal.ext.route.ControllerBind;
+
 import com.jfinal.core.Controller;
-import com.jfinal.ext.route.ControllerBind;
 
 @ControllerBind(controllerKey = "/bb")
 //@ControllerBind(controllerKey = "/t")

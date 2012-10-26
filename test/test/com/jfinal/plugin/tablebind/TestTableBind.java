@@ -1,11 +1,12 @@
 package test.com.jfinal.plugin.tablebind;
 
+import jfinal.ext.plugin.tablebind.AutoTableBindPlugin;
+import jfinal.ext.plugin.tablebind.TableNameStyle;
+
 import org.junit.BeforeClass;
 import org.junit.Test;
 
 import com.jfinal.plugin.druid.DruidPlugin;
-import com.jfinal.plugin.tablebind.AutoTableBindPlugin;
-import com.jfinal.plugin.tablebind.TableNameStyle;
 
 public class TestTableBind {
 	@BeforeClass

@@ -4,9 +4,10 @@ import static org.junit.Assert.assertEquals;
 
 import java.util.concurrent.TimeUnit;
 
+import jfinal.ext.plugin.quartz.QuartzPlugin;
+
 import org.junit.Test;
 
-import com.jfinal.plugin.quartz.QuartzPlugin;
 public class TestQuartz {
  
 	@Test

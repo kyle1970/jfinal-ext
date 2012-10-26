@@ -1,12 +1,13 @@
 package test.com.jfinal.ext;
 
+import jfinal.ext.route.AutoControllerRegist;
+
 import com.jfinal.config.Constants;
 import com.jfinal.config.Handlers;
 import com.jfinal.config.Interceptors;
 import com.jfinal.config.JFinalConfig;
 import com.jfinal.config.Plugins;
 import com.jfinal.config.Routes;
-import com.jfinal.ext.route.AutoControllerRegist;
 import com.jfinal.plugin.activerecord.tx.TxByRegex;
 import com.jfinal.render.ViewType;
 

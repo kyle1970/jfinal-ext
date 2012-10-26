@@ -2,7 +2,8 @@ package test.com.jfinal.plugin.jms;
 
 import java.io.Serializable;
 
-import com.jfinal.plugin.jms.ReceiveResolver;
+import jfinal.ext.plugin.jms.ReceiveResolver;
+
 
 public class AReceiveResolver implements ReceiveResolver {
 

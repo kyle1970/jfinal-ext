@@ -5,9 +5,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import jfinal.ext.render.excel.ExcelRender;
+
 import com.jfinal.core.Controller;
 import com.jfinal.plugin.activerecord.Record;
-import com.jfinal.render.excel.ExcelRender;
 
 public class ExcelController extends Controller {
 	public void index() {

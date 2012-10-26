@@ -1,12 +1,12 @@
 package test.com.jfinal.plugin.config;
 
+import jfinal.ext.plugin.config.ConfigKit;
+import jfinal.ext.plugin.config.ConfigPlugin;
 import junit.framework.Assert;
 
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-import com.jfinal.plugin.config.ConfigKit;
-import com.jfinal.plugin.config.ConfigPlugin;
 
 public class TestConfig {
 	@BeforeClass

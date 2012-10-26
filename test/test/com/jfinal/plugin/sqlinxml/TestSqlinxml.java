@@ -1,11 +1,11 @@
 package test.com.jfinal.plugin.sqlinxml;
 
 import static org.junit.Assert.assertEquals;
+import jfinal.ext.plugin.sqlinxml.SqlInXmlPlugin;
+import jfinal.ext.plugin.sqlinxml.SqlKit;
 
 import org.junit.Test;
 
-import com.jfinal.plugin.sqlinxml.SqlInXmlPlugin;
-import com.jfinal.plugin.sqlinxml.SqlKit;
 
 public class TestSqlinxml {
 

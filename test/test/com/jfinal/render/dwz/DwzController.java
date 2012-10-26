@@ -1,7 +1,8 @@
 package test.com.jfinal.render.dwz;
 
+import jfinal.ext.render.DwzRender;
+
 import com.jfinal.core.Controller;
-import com.jfinal.render.DwzRender;
 
 public class DwzController extends Controller {
 	public void delete() {

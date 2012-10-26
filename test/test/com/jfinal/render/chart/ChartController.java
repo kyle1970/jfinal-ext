@@ -3,9 +3,10 @@ package test.com.jfinal.render.chart;
 import java.util.ArrayList;
 import java.util.List;
 
+import jfinal.ext.render.KeyLabel;
+import jfinal.ext.render.chart.AmChartsRender;
+
 import com.jfinal.core.Controller;
-import com.jfinal.render.chart.KeyLabel;
-import com.jfinal.render.chart.amchart.AmChartsRender;
 
 public class ChartController extends Controller {
 	public void pie(){

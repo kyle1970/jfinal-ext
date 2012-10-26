@@ -8,12 +8,13 @@ package test.com.jfinal.plugin.jms;
 
 import java.util.concurrent.TimeUnit;
 
+import jfinal.ext.plugin.config.ConfigPlugin;
+import jfinal.ext.plugin.jms.JmsKit;
+import jfinal.ext.plugin.jms.JmsPlugin;
+
 import org.junit.Ignore;
 import org.junit.Test;
 
-import com.jfinal.plugin.config.ConfigPlugin;
-import com.jfinal.plugin.jms.JmsKit;
-import com.jfinal.plugin.jms.JmsPlugin;
 //@RunWith(PowerMockRunner.class)
 //@PrepareForTest(JmsKit.class)
 public class TestJms {

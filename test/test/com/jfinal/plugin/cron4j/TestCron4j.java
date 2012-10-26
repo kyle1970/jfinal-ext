@@ -4,9 +4,10 @@ import static org.junit.Assert.assertEquals;
 
 import java.util.concurrent.TimeUnit;
 
+import jfinal.ext.plugin.cron.Cron4jPlugin;
+
 import org.junit.Test;
 
-import com.jfinal.plugin.cron.Cron4jPlugin;
 public class TestCron4j {
 
 	@Test

@@ -9,11 +9,12 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import jfinal.ext.render.excel.ExcelKit;
+
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.junit.Test;
 
 import com.jfinal.plugin.activerecord.Record;
-import com.jfinal.render.excel.ExcelKit;
 
 public class TestExcelKit {
 	@Test
